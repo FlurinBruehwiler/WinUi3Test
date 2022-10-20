@@ -1,0 +1,12 @@
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\bin\x86\Debug\net6.0\WinUiTest2.Core.deps.json
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\bin\x86\Debug\net6.0\WinUiTest2.Core.dll
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\bin\x86\Debug\net6.0\WinUiTest2.Core.pdb
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\WinUiTest2.Core.csproj.AssemblyReference.cache
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\WinUiTest2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\WinUiTest2.Core.AssemblyInfoInputs.cache
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\WinUiTest2.Core.AssemblyInfo.cs
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\WinUiTest2.Core.csproj.CoreCompileInputs.cache
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\WinUiTest2.Core.dll
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\refint\WinUiTest2.Core.dll
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\WinUiTest2.Core.pdb
+C:\Programming\Github\WinUiTest2\WinUiTest2.Core\obj\x86\Debug\net6.0\ref\WinUiTest2.Core.dll
